@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Request login</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min_89.css">
+
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome_89.min.css">
+
+
+	
+	<link rel="stylesheet" type="text/css" href="css.css">
+</head>
+<body class="">
+	
+    <div class="topnav">
+		<a class="active" href="index.html">Home</a>
+		<a href="#news">News</a>
+		<a href="#contact">Contact</a>
+		<a href="#about">About</a>
+		</div>
+	
+
+		<div class="container-login">
+			<div class="wrap-login" >
+				<form class="login-form">
+				<div class="card" style="width: 100%;">
+					<div class="card-header">
+						<h4>Promotion 
+							<span class="badge badge-primary">In Progress</span>
+							<a href="edit-login.html" class="btn btn-primary float-right"> <span><i class="fa fa-edit"></i></span> Edit</a>
+						</h4>
+						
+					</div>
+					<div class="card-body">
+				
+
+					  <div class="row">
+						<div class="col-3">
+							Name
+						</div>
+						<div class="col-9">
+							Ahmad AlSaleh
+						</div>
+					  </div>
+					  <hr>
+					  <div class="row">
+						<div class="col-3">
+							Service
+						</div>
+						<div class="col-9">
+							All
+						</div>
+					  </div>
+					  <hr>
+					  <div class="row">
+						<div class="col-3">
+							Description
+						</div>
+						<div class="col-9">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum 
+						</div>
+					  </div>
+					  <hr>
+					  <div class="row">
+						<div class="col-3">
+							Files
+						</div>
+						<div class="col-9">
+							<div class="list-group">
+								<a href="#" class="list-group-item">Perfomance Report.pdf</a>
+								<a href="#" class="list-group-item">Impact Report.xmls</a>
+								<a href="#" class="list-group-item">Supervisor Appraisal.pdf</a>
+								<a href="#" class="list-group-item">Colleagues Appraisal.pdf</a>
+							</div>
+							<div class="list-group">
+								<a href="#" class="list-group-item"><img src="./images/product_performance_on_line_graph_slide01.jpeg" class="img-fluid" alt="Responsive image"></a> 
+	
+							</div>
+						
+						</div>
+					  </div>
+					</div>
+					<div class="card-footer text-muted">
+						<a href="#" class="btn btn-success">Approve</a>
+						<a href="#" class="btn btn-danger">Decline</a>
+					</div>
+				
+				  </div>
+	
+				</form>
+			</div>
+		</div>
+
+
+    <footer>
+		<div class="credit"> VELVETY SYSTEM 2021 &copy; All Rights reserved</div>
+	</footer>
+    
+</body>
+</html>
