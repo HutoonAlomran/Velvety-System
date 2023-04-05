@@ -13,11 +13,17 @@
 <!-- introduction -->
 ## About The Project
 
-Velvety System is a web-based management system that is designed to facilitate communication and streamline the request approval process between employees and managers. The system allows employees to add requests, such as leave or party requests, which are then routed to their respective managers for approval. The manager can approve or decline the request from within the system. Velvety System provides an easy-to-use interface that allows employees to quickly submit requests and managers to efficiently review and approve them.
+The Velvety System is an online management system that simplifies communication and approval processes between employees and managers. The system enables employees to submit requests, such as leave or party requests, automatically forwarded to their respective managers for review and approval. Managers can use the system to approve or decline requests easily. The interface of the Velvety System is user-friendly, allowing employees to submit requests promptly and managers to review them efficiently. The system was developed using PHP as the backend language.
+
 
 <!-- technology -->
 ## Built With
+### Frontend
+* [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery)](https://skills.thijs.gg)
 
-* [![My Skills](https://skills.thijs.gg/icons?i=bootstrap,html,css)](https://skills.thijs.gg)
-* [![My Skills](https://skills.thijs.gg/icons?i=js,jquery,mysql)](https://skills.thijs.gg)
+### Backend
+* [![My Skills](https://skills.thijs.gg/icons?i=PHP,Ajax)](https://skills.thijs.gg)
+
+
+
 * [![My Skills](https://skills.thijs.gg/icons?i=php)](https://skills.thijs.gg)
