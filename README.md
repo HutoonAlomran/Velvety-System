@@ -22,8 +22,5 @@ The Velvety System is an online management system that simplifies communication 
 * [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,Bootstrap)](https://skills.thijs.gg)
 
 ### Backend
-* [![My Skills](https://skills.thijs.gg/icons?i=PHP,sql)](https://skills.thijs.gg)
+* [![My Skills](https://skills.thijs.gg/icons?i=php,sql)](https://skills.thijs.gg)
 
-
-
-* [![My Skills](https://skills.thijs.gg/icons?i=php)](https://skills.thijs.gg)
