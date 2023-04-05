@@ -19,10 +19,10 @@ The Velvety System is an online management system that simplifies communication 
 <!-- technology -->
 ## Built With
 ### Frontend
-* [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery)](https://skills.thijs.gg)
+* [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,Bootstrap)](https://skills.thijs.gg)
 
 ### Backend
-* [![My Skills](https://skills.thijs.gg/icons?i=PHP,Ajax)](https://skills.thijs.gg)
+* [![My Skills](https://skills.thijs.gg/icons?i=PHP,sql)](https://skills.thijs.gg)
 
 
 
